@@ -47,6 +47,14 @@ Quality (Target Variable).
 
 📈 Workflow
 
+
+
+
+
+
+![Image](https://github.com/user-attachments/assets/b600cf17-8bf9-45c6-a813-609bf565b8ac)
+
+
 Data Preprocessing: 
 Cleaned and explored the dataset to handle missing values and outliers.
 Feature Engineering:
