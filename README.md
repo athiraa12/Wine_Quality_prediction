@@ -52,7 +52,8 @@ Quality (Target Variable).
 
 
 
-![Image](https://github.com/user-attachments/assets/b600cf17-8bf9-45c6-a813-609bf565b8ac)
+![Image](https://github.com/user-attachments/assets/ca2c8c3d-948f-48fd-9a7f-5e6f8a13f1dd)
+
 
 
 Data Preprocessing: 
